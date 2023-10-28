@@ -85,15 +85,15 @@ public class Biodata extends JFrame{
         
         // Instansiasi JButton dengan nama button yang diberikan nilai "Edit"
         JButton editButton = new JButton("Edit");
-        editButton.setBounds(100, 600, 80, 40);
+        editButton.setBounds(100, 340, 80, 40);
 
         // Instansiasi JButton dengan nama button yang diberikan nilai "Hapus"
         JButton deleteButton = new JButton("Hapus");
-        deleteButton.setBounds(180, 600, 80, 40);
+        deleteButton.setBounds(180, 340, 80, 40);
 
         // Instansiasi JButton dengan nama button yang diberikan nilai "Simpan ke File"
         JButton saveToFileButton = new JButton("Simpan ke File");
-        saveToFileButton.setBounds(260, 600, 120, 40);
+        saveToFileButton.setBounds(260, 340, 120, 40);
         
         
         // Instansiasi JTable dengan nama table
