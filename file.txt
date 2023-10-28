@@ -1,2 +1,2 @@
-Rahma Aliaputri	08992536672	Perempuan	cimahi	
-Ujang	0987655433	Laki-Laki	bandung	
+Rahma aliaputri	0987654321	Perempuan	cimahi bandung barat	
+putra	098765456	Laki-Laki	dimana	
